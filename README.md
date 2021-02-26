@@ -33,7 +33,7 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
 ### Let's connect!
 <p>
     <a href="http://kelaskode.rf.gd" target="blank"><img src="https://img.shields.io/badge/Website-https://kelaskode.rf.gd-green?" /></a>
-    <a href="https://facebook.com/kelas.code" target="blank"><img src="https://img.shields.io/badge/Kelas-Kode-30302f?style=flat&logo=facebook" /></a>
+    <a href="https://facebook.com/kelas.code" target="blank"><img src="https://img.shields.io/badge/Kelas%20Kode-30302f?style=flat&logo=facebook" /></a>
     <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
     <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
     <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>

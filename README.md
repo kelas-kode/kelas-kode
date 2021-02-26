@@ -1,8 +1,6 @@
-<h4 align="center">
-    🔰KELAS KODE🔰
-</h4>
+# 🔰KELAS KODE🔰
 
-# Hi there 👋 , I'm Tegar!
+## Hi there 👋 , I'm Tegar and Teguh!
 Currently I am open to any opportunity especially in IT as a Mobile Developer and iOS Developer. 
 
 ### Tools:

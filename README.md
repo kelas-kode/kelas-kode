@@ -30,9 +30,14 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
 </p>
 
 
-* [<img alt="kelas-kode's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/kelas-kode)<br />
-* [<img alt="kelas-kode's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Fanspage</b>](https://www.facebook.com/kelas.code)<br />
-* [<img alt="kelas-kode's Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://api.whatsapp.com/send/?phone=%2B6282125068665&text&app_absent=0)<br />
-* [<img alt="kelas-kode's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/duniakode.official)<br />
+### Let's connect!
+<p>
+    <a href="http://kelaskode.rf.gd" target="blank"><img src="https://img.shields.io/badge/Website-https://kelaskode.rf-green?" /></a>
+    <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
+    <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+</p>
+
 
 ![template_s](https://github.com/kelas-kode/kelas-kode/blob/main/FB_IMG_16142903449754703.jpg)

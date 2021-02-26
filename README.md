@@ -37,4 +37,4 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
     </p>
 
 
-![template_s](https://github.com/kelas-kode/kelas-kode/blob/main/FB_IMG_16142903449754703.jpg)
+![template_s](https://github.com/kelas-kode/kelas-kode/blob/main/20210226_083305.png)

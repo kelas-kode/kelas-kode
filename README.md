@@ -1,7 +1,7 @@
 # 🔰KELAS KODE🔰
 
 ## Hi there 👋 , I'm Tegar and Teguh!
-Currently I am open to any opportunity especially in IT as a Mobile Developer and iOS Developer. 
+Currently I am open to any opportunity especially in IT as a Mobile Developer and Web Developer. 
 
 ### Tools:
 <p>

@@ -12,7 +12,7 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=linux" />
     <img src="https://img.shields.io/badge/Code-Java-blue?&logo=java" />
     <img src="https://img.shields.io/badge/IDE-AIDE-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Nano-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Nano-blue?&logo=vim&logoColor=blue" />
     <img src="https://gpvc.arturio.dev/kelas-kode" />
 </p>
 
